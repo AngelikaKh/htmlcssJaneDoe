@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+}
+li {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+}
+header {
+  width: 100%;
+  height: 70vh;
+  background-image: url(https://www.w3schools.com/w3images/photographer.jpg);
+  background-position: cover;
+  background-repeat: no-repeat;
+}
